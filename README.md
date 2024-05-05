@@ -1,5 +1,7 @@
 # flutter_launcher_name
 
+* This plugin version is for android only
+
 A command-line tool which simplifies the task of updating your Flutter app's launcher name.
 If you user this package, You don't need modify AndroidManifest.xml or Info.plist.
 
