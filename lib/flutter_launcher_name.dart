@@ -15,7 +15,7 @@ exec() {
   final newName = config['name'];
 
   android.overwriteAndroidManifest(newName);
-  ios.overwriteInfoPlist(newName);
+  //ios.overwriteInfoPlist(newName);
 
   print('exit');
 }
